@@ -1,2 +1,2 @@
 # PedidosCafeteria
-[Ver documento PDF](docs/SISTEMA-DE-CAFETERÍA.pdf)
+[Ver documento PDF](PedidosCafeteria/docs/SISTEMA-DE-CAFETERÍA.pdf)

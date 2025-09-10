@@ -338,7 +338,6 @@ class Program
         Console.WriteLine("   👩‍🍳 Operador: operador123");
         Console.WriteLine("   👨‍💼 Administrador: admin123");
         Console.WriteLine();
-        Console.WriteLine("📚 Proyecto académico - Programación Orientada a Objetos");
 
         Console.WriteLine("\nPresione cualquier tecla para continuar...");
         Console.ReadKey();

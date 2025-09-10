@@ -333,6 +333,16 @@ Este proyecto demuestra:
 - **Manejo de errores:** Excepciones específicas y validaciones
 - **Experiencia de usuario:** Interfaz intuitiva y funcional
 
+## 🖼️ Imagenes del sistema
+<img width="1108" height="619" alt="image" src="https://github.com/user-attachments/assets/1e8dfbbd-98d7-44e1-ba07-b42f04a97a3c" />
+<img width="1113" height="623" alt="image" src="https://github.com/user-attachments/assets/c1468872-5827-49cb-a16d-b8d1ae681640" />
+<img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/4a6067b0-df4f-45c2-94a7-e037a560e609" />
+<img width="1108" height="624" alt="image" src="https://github.com/user-attachments/assets/43aae3d6-5d09-4688-854b-6b5f1dc97027" />
+<img width="1104" height="617" alt="image" src="https://github.com/user-attachments/assets/bba35cbd-4deb-445f-b712-f609992a3780" />
+<img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/02ec12e7-6d14-4a5a-97dc-8ad9f367f42f" />
+
+
+
 ## 👨‍💻 Desarrollo
 
 **Autor:** [Mateo Bolivar Arroyave]  

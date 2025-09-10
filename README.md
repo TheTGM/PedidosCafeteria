@@ -333,6 +333,21 @@ Este proyecto demuestra:
 - **Manejo de errores:** Excepciones específicas y validaciones
 - **Experiencia de usuario:** Interfaz intuitiva y funcional
 
+
+##🧪 Pruebas
+
+
+Ejecuta todas las pruebas unitarias:
+```
+dotnet test
+```
+Incluye pruebas para:
+
+- Descuento de stock y disparo de evento.
+- Factory de pagos.
+- Pipeline de estrategias de precio.
+- Procesamiento de pagos exitosos y fallidos.
+
 ## 🖼️ Imagenes del sistema
 <img width="1108" height="619" alt="image" src="https://github.com/user-attachments/assets/1e8dfbbd-98d7-44e1-ba07-b42f04a97a3c" />
 <img width="1113" height="623" alt="image" src="https://github.com/user-attachments/assets/c1468872-5827-49cb-a16d-b8d1ae681640" />

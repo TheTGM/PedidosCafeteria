@@ -334,7 +334,7 @@ Este proyecto demuestra:
 - **Experiencia de usuario:** Interfaz intuitiva y funcional
 
 
-##🧪 Pruebas
+## 🧪 Pruebas
 
 
 Ejecuta todas las pruebas unitarias:
